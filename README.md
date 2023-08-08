@@ -1,9 +1,9 @@
 **👋 Hi, I’m @JackieTheHusky**
 # About Me
-I’m interested in Gaming/Modding and in CS as a whole. I’m currently learning SQL, Python and C+, but in genreal I'm a bit new
+I’m interested in Gaming/Modding and in CS as a whole. I’m currently learning SQL, Python and C+, but in general I'm a bit new
 
 
-If you need to contact me, feel free to just contact me
+If you need me, feel free to just contact me
 
 <!---
 JackieTheHusky/JackieTheHusky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
